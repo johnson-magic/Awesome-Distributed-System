@@ -56,3 +56,8 @@
 - [ ] [BASE Layers: Simplifying Training of Large, Sparse Models](https://arxiv.org/pdf/2103.16716.pdf)
 - [ ] [FASTMOE: A FAST MIXTURE-OF-EXPERT TRAINING SYSTEM](https://arxiv.org/pdf/2103.13262.pdf)
 
+## 万亿模型
+- [ ] [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/pdf/2101.03961.pdf)
+- [ ] [BaGuaLu: Targeting Brain Scale Pretrained Models with over 37 Million Cores](https://dl.acm.org/doi/pdf/10.1145/3503221.3508417)
+
+
