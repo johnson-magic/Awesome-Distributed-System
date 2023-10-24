@@ -25,4 +25,6 @@
 
 - [ ] [ZeRO-Offload: Democratizing Billion-Scale Model Training](https://arxiv.org/pdf/2101.06840.pdf)
 
-- [ ] [ZeRO-Offload: Democratizing Billion-Scale Model Training](https://arxiv.org/pdf/2104.07857.pdf) 
+- [ ] [ZeRO-Offload: Democratizing Billion-Scale Model Training](https://arxiv.org/pdf/2104.07857.pdf)
+
+- [ ] [ZeRO: Memory Optimizations Toward Training Trillion Parameter Model](https://www.cs.cmu.edu/~zhihaoj2/15-849/slides/13-zero-redundancy.pdf) 
