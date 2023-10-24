@@ -37,6 +37,6 @@
 - [ ] [Mesh-TensorFlow: Deep Learning for Supercomputers](https://arxiv.org/pdf/1811.02084.pdf)
 - [ ] [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/pdf/2006.16668.pdf)
 - [ ] [GSPMD: General and Scalable Parallelization for ML Computation Graphs](https://arxiv.org/pdf/2105.04663.pdf)
-- [ ] [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism(https://arxiv.org/pdf/1909.08053.pdf)
+- [ ] [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053.pdf)
 - [ ] [Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training](https://arxiv.org/pdf/2110.14883.pdf)
 - [ ] [An Efficient 2D Method for Training Super-Large Deep Learning Models](https://arxiv.org/pdf/2104.05343.pdf)
