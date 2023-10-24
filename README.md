@@ -40,3 +40,19 @@
 - [ ] [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053.pdf)
 - [ ] [Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training](https://arxiv.org/pdf/2110.14883.pdf)
 - [ ] [An Efficient 2D Method for Training Super-Large Deep Learning Models](https://arxiv.org/pdf/2104.05343.pdf)
+- [ ] [Tesseract: Parallelize the Tensor Parallelism Efficiently](https://arxiv.org/pdf/2105.14500.pdf)
+- [ ] [Maximizing Parallelism in Distributed Training for Huge Neural Networks](https://arxiv.org/pdf/2105.14450.pdf)
+
+## pipe并行
+- [ ] [Gpipe: Efficient training of giant neural networks using pipeline parallelism](https://arxiv.org/pdf/1811.06965.pdf)
+- [ ] [Memory-Efficient Pipeline-Parallel DNN Training](https://arxiv.org/pdf/2006.09503.pdf)
+- [ ] [PipeMare: Asynchronous Pipeline Parallel DNN Training](https://arxiv.org/pdf/1910.05124.pdf)
+- [ ] [TeraPipe: Token-Level Pipeline Parallelism for Training Large-Scale Language Models](https://arxiv.org/pdf/2102.07988.pdf)
+- [ ] [Maximizing Parallelism in Distributed Training for Huge Neural Networks](https://arxiv.org/pdf/2105.14450.pdf)
+
+## 专家并行
+- [ ] [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/pdf/2006.16668.pdf)
+- [ ] [GSPMD: General and Scalable Parallelization for ML Computation Graphs](https://arxiv.org/pdf/2105.04663.pdf)
+- [ ] [BASE Layers: Simplifying Training of Large, Sparse Models](https://arxiv.org/pdf/2103.16716.pdf)
+- [ ] [FASTMOE: A FAST MIXTURE-OF-EXPERT TRAINING SYSTEM](https://arxiv.org/pdf/2103.13262.pdf)
+
