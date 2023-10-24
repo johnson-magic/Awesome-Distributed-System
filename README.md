@@ -51,7 +51,7 @@
 - [ ] [Maximizing Parallelism in Distributed Training for Huge Neural Networks](https://arxiv.org/pdf/2105.14450.pdf)
 
 ## 专家并行
-- [ ] [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/pdf/2006.16668.pdf)
+- [ ] [*万亿 GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/pdf/2006.16668.pdf)
 - [ ] [GSPMD: General and Scalable Parallelization for ML Computation Graphs](https://arxiv.org/pdf/2105.04663.pdf)
 - [ ] [BASE Layers: Simplifying Training of Large, Sparse Models](https://arxiv.org/pdf/2103.16716.pdf)
 - [ ] [FASTMOE: A FAST MIXTURE-OF-EXPERT TRAINING SYSTEM](https://arxiv.org/pdf/2103.13262.pdf)
